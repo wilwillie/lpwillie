@@ -1,0 +1,36 @@
+body{
+    font-family: Calibri;
+}
+
+.para1{
+    color: black;
+    font-size: larger;
+    font-weight: bolder;
+}
+
+.para2{
+    color: black;
+    font-size: smaller;
+    font-weight: bolder;
+}
+
+.btnconfirm{
+    color: white;
+    background-color: green;
+}
+
+.btncancel{
+    color: black;
+    background-color: white;
+}
+
+.thin{
+    color: black;
+    font-weight: lighter;
+}
+
+.smalled{
+    color: black;
+    font-size: smaller;
+    font-weight: bolder;
+}
